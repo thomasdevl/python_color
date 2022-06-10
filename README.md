@@ -1,2 +1,5 @@
-# python_color
-Print in the Terminal in color
+# How to use
+Place this file anywhere in your project and import it using
+```
+from print_color import *
+```
